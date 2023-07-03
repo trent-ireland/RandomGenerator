@@ -1,5 +1,5 @@
 const quoteStart = ["I am", "Today", "My"];
-const quoteEnd1 = ["Strong", "Smart", "Successful", "Sexy", "Funny", "Powerful", "goodlooking"];
+const quoteEnd1 = ["Strong", "Smart", "Successful", "Funny", "Powerful", "goodlooking"];
 const quoteEnd2 = ["is a phenomenal day", "will be a productive day"];
 const quoteEnd3 = [
   "life has meaning. What I do has meaning. My actions are meaningful and inspiring.",
